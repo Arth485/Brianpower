@@ -1,2 +1,2 @@
 # Brianpower
-Plataforma automatizada de mnonetização IA
+Plataforma automatizada de monetização para IA
